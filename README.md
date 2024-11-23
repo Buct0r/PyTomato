@@ -48,4 +48,4 @@ And then you can run it:
 
 
 ## Conlusion
-You can download the executable from [here](). Windows Defender or your antivirus will probably block the execution, but you can add an exception in your antivirus settings. If you don't trust the application, you can always check the source code from the main branch of the repo.
+You can download the executable from [here](https://github.com/Buct0r/PyTomato/releases). Windows Defender or your antivirus will probably block the execution, but you can add an exception in your antivirus settings. If you don't trust the application, you can always check the source code from the main branch of the repo.
